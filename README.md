@@ -64,8 +64,8 @@ Deployment Status:
 If there is no output from your deployment command, be patient and allow some time for the deployment to complete. You can monitor the status of the deployment using the command:
 
         kubectl get deployment
-## Debugging
 
+        
 To test the endpoints follow the below steps :
 1. Open Terminal 
 2. Follow the steps 1 and 2 from run the application
