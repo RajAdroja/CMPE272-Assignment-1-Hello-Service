@@ -47,6 +47,10 @@ This script will typically start the application or perform tasks necessary for 
 
 4. Verify Output:
 Once the app.sh script has completed, you should see the output "Hello World" indicating that the application is running successfully.
+
+    ![Screenshot 2024-09-02 013208](https://github.com/user-attachments/assets/513ed5c6-518e-4a02-ac1f-08b9b6cc6143)
+
+    
 ## Debugging
 
 Verify Docker Status:
