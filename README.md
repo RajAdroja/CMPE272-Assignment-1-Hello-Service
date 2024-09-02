@@ -29,19 +29,19 @@ Software :
 1. Start Docker:
 Ensure Docker is running on your system. You can start Docker by launching the Docker Desktop application or by running Docker commands from the terminal. Verify that Docker is active by using the command:
 
-    docker info
+        docker info
 
 2. Execute the setup.sh Script:
 Navigate to the root folder of your project where the setup.sh file is located. Run the script by executing:
 
-    bash setup.sh
+        bash setup.sh
 
 This script may perform tasks such as building Docker images, setting up necessary configurations, or initializing required services.
 
 3. Execute the app.sh Script:
 After setup.sh completes, run the app.sh script from the same root folder. This can be done by executing:
 
-    bash app.sh
+        bash app.sh
 
 This script will typically start the application or perform tasks necessary for running the app.
 
