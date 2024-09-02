@@ -65,5 +65,12 @@ If there is no output from your deployment command, be patient and allow some ti
 To test the endpoints follow the below steps :
 1. Open Terminal 
 2. Follow the steps 1 and 2 from run the application
-2. Run curl http://127.0.0.1:5500/hello output will be "Hello"
-3. Run curl http://127.0.0.1:5501/world output will be "World"
+3. Run curl http://127.0.0.1:5500/hello output will be "Hello"
+
+    ![Screenshot 2024-09-02 013226](https://github.com/user-attachments/assets/cf7ce32a-d8fd-4e37-9b17-f91da2af4130)
+
+
+4. Run curl http://127.0.0.1:5501/world output will be "World"
+   
+   ![Screenshot 2024-09-02 013230](https://github.com/user-attachments/assets/b34aaa9a-113a-4e6e-8bd5-537d27784a15)
+
