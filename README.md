@@ -81,5 +81,5 @@ To test the endpoints follow the below steps :
 
 # Additional Links:
 
-DockerHub Repositories: https://hub.docker.com/repositories/rajadroja
-GitHub: https://github.com/RajAdroja/CMPE272-Assignment-1-Hello-Service
+DockerHub Repositories: https://hub.docker.com/repositories/rajadroja        
+GitHub: https://github.com/RajAdroja/CMPE272-Assignment-1-Hello-Service        
